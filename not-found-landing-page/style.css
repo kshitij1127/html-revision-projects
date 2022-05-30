@@ -1,0 +1,35 @@
+.header{
+    flex: 1;
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.paragraph{
+    flex: 1;
+    align-self: center;
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'JetBrains Mono', monospace;
+    margin-left: 800;
+    margin-right: 100;
+}
+
+.button{
+    flex: 1;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 20px;
+    margin-left: 800;
+}
+
+.heading{
+    flex: 1;
+    font-size: 70;
+    font-weight: bolder;
+    padding: 20px;
+    margin-left: 780;
+    font-family: 'JetBrains Mono', monospace;
+    margin-top: -500;
+}
